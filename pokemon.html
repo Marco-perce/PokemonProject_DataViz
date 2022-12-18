@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <title>Pokemon Stats Vizualizer </title>
+
+     <style>
+       html body {
+           background-image: url('betterpokemon.png');
+           background-color: #e2f4fd;
+           margin: 0 auto;
+           padding: 0;
+       }
+
+       .center {
+         text-align: center;
+       }
+
+       .button {
+         background-color: white;
+         border: none;
+         color: white;
+         padding: 8px 14px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 10px;
+         margin: 2px 2px;
+         transition-duration: 0.4s;
+         cursor: pointer;
+         border-radius: 12px;
+       }
+
+       .button1 {
+         border: 2px solid #f44336;
+       }
+
+       .button1:hover {
+         background-color: #f44336;
+         color: white;
+       }
+
+       .button2 {
+         border: 2px solid #008CBA;
+       }
+
+       .button2:hover {
+         background-color: #008CBA;
+         color: white;
+       }
+
+       .button3 {
+         border: 2px solid #4CAF50;
+       }
+
+       .button3:hover {
+         background-color: #4CAF50;
+         color: white;
+       }
+
+       .button4 {
+         border: 2px solid #6fbd09;
+       }
+
+       .button4:hover {
+           background-color: #6fbd09;
+           color: white;
+       }
+
+       .button5 {
+         border: 2px solid #fffb00;
+       }
+
+       .button5:hover {
+         background-color: #fffb00;
+         color: white;
+       }
+
+       .button6 {
+         border: 2px solid #858585;
+       }
+
+       .button6:hover {
+         background-color: #858585;
+         color: white;
+       }
+
+       .button7 {
+         border: 2px solid #00ffea;
+       }
+
+       .button7:hover {
+         background-color: #00ffea;
+         color: white;
+       }
+
+       .button8 {
+         border: 2px solid #d36206;
+       }
+
+       .button8:hover {
+         background-color: #d36206;
+         color: white;
+       }
+
+       .button9 {
+         border: 2px solid #57300d;
+       }
+
+       .button9:hover {
+         background-color: #57300d;
+         color: white;
+       }
+
+       .button10 {
+         border: 2px solid #813c03;
+       }
+
+       .button10:hover {
+         background-color: #813c03;
+         color: white;
+       }
+
+       .button11 {
+         border: 2px solid #abfcff;
+       }
+
+       .button11:hover {
+         background-color: #abfcff;
+         color: white;
+       }
+
+       .button12 {
+         border: 2px solid #852570;
+       }
+
+       .button12:hover {
+         background-color: #852570;
+         color: white;
+       }
+
+       .button13 {
+         border: 2px solid #a200ff;
+       }
+
+       .button13:hover {
+         background-color: #a200ff;
+         color: white;
+       }
+
+       .button14 {
+         border: 2px solid #35203f;
+       }
+
+       .button14:hover {
+         background-color: #35203f;
+         color: white;
+       }
+
+       .button15 {
+         border: 2px solid #ff00ff;
+       }
+
+       .button15:hover {
+         background-color: #ff00ff;
+         color: white;
+       }
+
+       .button16 {
+         border: 2px solid #502DD3;
+       }
+
+       .button16:hover {
+         background-color: #502DD3;
+         color: white;
+       }
+
+       .button17 {
+         border: 2px solid #1a1919;
+       }
+
+       .button17:hover {
+         background-color: #1a1919;
+         color: white;
+       }
+
+       .button18 {
+         border: 2px solid #3a3a39;
+       }
+
+       .button18:hover {
+         background-color: #3a3a39;
+         color: white;
+       }
+       .btn-group .button {
+         background-color: #ffffff;
+         border: none;
+         color: rgb(0, 0, 0);
+         padding: 15px 32px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 16px;
+         cursor: pointer;
+         border-radius: 12px;
+       }
+
+       .btn-group .button:hover {
+         background-color: #66cafc;
+         border: 2px solid #66cafc;
+       }
+
+       .div-menu {
+         background-color: #fde2e2;
+         opacity: 1;
+       }
+       svg {
+           display: block;
+           font-family: Serif;
+           font-size: 16px;
+           margin-left: auto;
+           margin-right: auto;
+       }
+
+       .main{
+        height: 500px;
+        width: 500px
+       }
+
+       .tooltip{
+        font-weight: bold;
+        text-decoration: underline;
+       }
+
+       .image{
+        position: absolute;
+        width: 100%;
+       }
+
+       .ligne{
+        height: 10px;
+        background-color: white;
+       }
+
+     </style>
+        <meta charset="utf-8">
+        <!-- https://d3js.org/ -->
+        <script src="https://cdn.jsdelivr.net/npm/d3-chord@3"></script>
+        <script type="text/javascript" src="js/d3.v7.min.js"></script>
+        <!-- Your code -->
+        <script type="text/javascript" src="js/pokemon.js"></script>
+
+    </head>
+
+    <body onload="launch()">
+        <div class="div-menu">
+        <div class="center", opacity="1">
+          <span> Choix des types :</span>
+          <form>
+              <input type="button" class="button button1" value="Fire" id="Fire" onclick="setvalue(0);" style="background-color: #f44336; color: white" />
+              <input type="button" class="button button2" value="Water" id="Water" onclick="setvalue(1);" style="background-color: #008CBA; color: white"/>
+              <input type="button" class="button button3" value="Grass" id="Grass" onclick="setvalue(2);" style="background-color: #4CAF50; color: white"/>
+              <input type="button" class="button button4" value="Bug" id="Bug" onclick="setvalue(3);" style="background-color: #6fbd09; color: white"/>
+              <input type="button" class="button button5" value="Electric" id="Electric" onclick="setvalue(4);" style="background-color: #fffb00; color: black"/>
+              <input type="button" class="button button6" value="Normal" id="Normal" onclick="setvalue(5);" style="background-color: #858585; color: white"/>
+              <input type="button" class="button button7" value="Ice" id="Ice" onclick="setvalue(6);" style="background-color: #00ffea; color: black"/>
+              <input type="button" class="button button8" value="Fighting" id="Fighting" onclick="setvalue(7);" style="background-color: #d36206; color: white"/>
+              <input type="button" class="button button9" value="Rock" id="Rock" onclick="setvalue(8);" style="background-color: #57300d; color: white"/>
+              <input type="button" class="button button10" value="Ground" id="Ground" onclick="setvalue(9);" style="background-color: #813c03; color: white"/>
+              <input type="button" class="button button11" value="Flying" id="Flying" onclick="setvalue(10);" style="background-color: #abfcff; color: black"/>
+              <input type="button" class="button button12" value="Psychic" id="Psychic" onclick="setvalue(11);" style="background-color: #852570; color: white"/>
+              <input type="button" class="button button13" value="Poison" id="Poison" onclick="setvalue(12);" style="background-color: #a200ff; color: white"/>
+              <input type="button" class="button button14" value="Ghost" id="Ghost" onclick="setvalue(13);" style="background-color: #35203f; color: white"/>
+              <input type="button" class="button button15" value="Fairy" id="Fairy" onclick="setvalue(14);" style="background-color: #ff00ff; color: white"/>
+              <input type="button" class="button button16" value="Dragon" id="Dragon" onclick="setvalue(15);" style="background-color: #502DD3; color: white"/>
+              <input type="button" class="button button17" value="Dark" id="Dark" onclick="setvalue(16);" style="background-color: #1a1919; color: white"/>
+              <input type="button" class="button button18" value="Steel" id="Steel" onclick="setvalue(17);" style="background-color: #3a3a39; color: white"/>
+          </form>
+        </div>
+        <div class="center", opacity="1">
+            <span> Choix des generations :</span>
+            <div class="btn-group">
+                <input type="button" class="button" value="1" id="1" onclick="setgeneration(0);" style="background-color: white; color: black" />
+                <input type="button" class="button" value="2" id="2" onclick="setgeneration(1);" style="background-color: grey; color: black" />
+                <input type="button" class="button" value="3" id="3" onclick="setgeneration(2);" style="background-color: grey; color: black" />
+                <input type="button" class="button" value="4" id="4" onclick="setgeneration(3);" style="background-color: grey; color: black" />
+                <input type="button" class="button" value="5" id="5" onclick="setgeneration(4);" style="background-color: grey; color: black" />
+                <input type="button" class="button" value="6" id="6" onclick="setgeneration(5);" style="background-color: grey; color: black" />
+            </div>
+        </div>
+        <div class="center", opacity="1">
+          <span> Accepter les legendaires?</span>
+          <form>
+              <input type="button" class="button" value="legendaires: oui" id="legendaires" onclick="setlegendary();" style="background-color: #ffffff; color: black" />
+          </form>
+      </div>
+      <div class="center">
+        <span> Combats entre types?</span>
+        <form>
+            <input type="button" class="button" value="oui" id="same_type" onclick="setsametype();" style="background-color: #ffffff; color: black" />
+        </form>
+    </div>
+      </div>
+      <div class="ligne" >
+
+      </div>
+      <div id="main">
+      </div>
+    </body>
+</html>
+

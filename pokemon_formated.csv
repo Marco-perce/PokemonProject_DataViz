@@ -1,0 +1,801 @@
+index,types,name,generation,legendary
+5,['Fire'],Charmander,1,False
+6,['Fire'],Charmeleon,1,False
+7,"['Fire', 'Flying']",Charizard,1,False
+8,"['Fire', 'Dragon']",Mega Charizard X,1,False
+9,"['Fire', 'Flying']",Mega Charizard Y,1,False
+43,['Fire'],Vulpix,1,False
+44,['Fire'],Ninetales,1,False
+64,['Fire'],Growlithe,1,False
+65,['Fire'],Arcanine,1,False
+84,['Fire'],Ponyta,1,False
+85,['Fire'],Rapidash,1,False
+136,['Fire'],Magmar,1,False
+148,['Fire'],Flareon,1,False
+159,"['Fire', 'Flying']",Moltres,1,True
+170,['Fire'],Cyndaquil,2,False
+171,['Fire'],Quilava,2,False
+172,['Fire'],Typhlosion,2,False
+237,['Fire'],Slugma,2,False
+238,"['Fire', 'Rock']",Magcargo,2,False
+260,['Fire'],Magby,2,False
+264,['Fire'],Entei,2,True
+271,"['Fire', 'Flying']",Ho-oh,2,True
+277,['Fire'],Torchic,3,False
+278,"['Fire', 'Fighting']",Combusken,3,False
+279,"['Fire', 'Fighting']",Blaziken,3,False
+280,"['Fire', 'Fighting']",Mega Blaziken,3,False
+353,"['Fire', 'Ground']",Numel,3,False
+354,"['Fire', 'Ground']",Camerupt,3,False
+355,"['Fire', 'Ground']",Mega Camerupt,3,False
+356,['Fire'],Torkoal,3,False
+436,['Fire'],Chimchar,4,False
+437,"['Fire', 'Fighting']",Monferno,4,False
+438,"['Fire', 'Fighting']",Infernape,4,False
+519,['Fire'],Magmortar,4,False
+543,"['Fire', 'Steel']",Heatran,4,True
+558,['Fire'],Tepig,5,False
+559,"['Fire', 'Fighting']",Pignite,5,False
+560,"['Fire', 'Fighting']",Emboar,5,False
+573,['Fire'],Pansear,5,False
+574,['Fire'],Simisear,5,False
+615,['Fire'],Darumaka,5,False
+616,['Fire'],Darmanitan Standard Mode,5,False
+617,"['Fire', 'Psychic']",Darmanitan Zen Mode,5,False
+693,['Fire'],Heatmor,5,False
+722,['Fire'],Fennekin,6,False
+723,['Fire'],Braixen,6,False
+724,"['Fire', 'Psychic']",Delphox,6,False
+731,"['Fire', 'Flying']",Fletchinder,6,False
+732,"['Fire', 'Flying']",Talonflame,6,False
+736,"['Fire', 'Normal']",Litleo,6,False
+737,"['Fire', 'Normal']",Pyroar,6,False
+800,"['Fire', 'Water']",Volcanion,6,True
+10,['Water'],Squirtle,1,False
+11,['Water'],Wartortle,1,False
+12,['Water'],Blastoise,1,False
+13,['Water'],Mega Blastoise,1,False
+60,['Water'],Psyduck,1,False
+61,['Water'],Golduck,1,False
+66,['Water'],Poliwag,1,False
+67,['Water'],Poliwhirl,1,False
+68,"['Water', 'Fighting']",Poliwrath,1,False
+79,"['Water', 'Poison']",Tentacool,1,False
+80,"['Water', 'Poison']",Tentacruel,1,False
+86,"['Water', 'Psychic']",Slowpoke,1,False
+87,"['Water', 'Psychic']",Slowbro,1,False
+88,"['Water', 'Psychic']",Mega Slowbro,1,False
+94,['Water'],Seel,1,False
+95,"['Water', 'Ice']",Dewgong,1,False
+98,['Water'],Shellder,1,False
+99,"['Water', 'Ice']",Cloyster,1,False
+107,['Water'],Krabby,1,False
+108,['Water'],Kingler,1,False
+126,['Water'],Horsea,1,False
+127,['Water'],Seadra,1,False
+128,['Water'],Goldeen,1,False
+129,['Water'],Seaking,1,False
+130,['Water'],Staryu,1,False
+131,"['Water', 'Psychic']",Starmie,1,False
+140,['Water'],Magikarp,1,False
+141,"['Water', 'Flying']",Gyarados,1,False
+142,"['Water', 'Dark']",Mega Gyarados,1,False
+143,"['Water', 'Ice']",Lapras,1,False
+146,['Water'],Vaporeon,1,False
+173,['Water'],Totodile,2,False
+174,['Water'],Croconaw,2,False
+175,['Water'],Feraligatr,2,False
+185,"['Water', 'Electric']",Chinchou,2,False
+186,"['Water', 'Electric']",Lanturn,2,False
+199,"['Water', 'Fairy']",Marill,2,False
+200,"['Water', 'Fairy']",Azumarill,2,False
+202,['Water'],Politoed,2,False
+210,"['Water', 'Ground']",Wooper,2,False
+211,"['Water', 'Ground']",Quagsire,2,False
+215,"['Water', 'Psychic']",Slowking,2,False
+228,"['Water', 'Poison']",Qwilfish,2,False
+241,"['Water', 'Rock']",Corsola,2,False
+242,['Water'],Remoraid,2,False
+243,['Water'],Octillery,2,False
+245,"['Water', 'Flying']",Mantine,2,False
+250,"['Water', 'Dragon']",Kingdra,2,False
+265,['Water'],Suicune,2,True
+281,['Water'],Mudkip,3,False
+282,"['Water', 'Ground']",Marshtomp,3,False
+283,"['Water', 'Ground']",Swampert,3,False
+284,"['Water', 'Ground']",Mega Swampert,3,False
+294,"['Water', 'Grass']",Lotad,3,False
+295,"['Water', 'Grass']",Lombre,3,False
+296,"['Water', 'Grass']",Ludicolo,3,False
+302,"['Water', 'Flying']",Wingull,3,False
+303,"['Water', 'Flying']",Pelipper,3,False
+348,"['Water', 'Dark']",Carvanha,3,False
+349,"['Water', 'Dark']",Sharpedo,3,False
+350,"['Water', 'Dark']",Mega Sharpedo,3,False
+351,['Water'],Wailmer,3,False
+352,['Water'],Wailord,3,False
+372,"['Water', 'Ground']",Barboach,3,False
+373,"['Water', 'Ground']",Whiscash,3,False
+374,['Water'],Corphish,3,False
+375,"['Water', 'Dark']",Crawdaunt,3,False
+382,['Water'],Feebas,3,False
+383,['Water'],Milotic,3,False
+402,['Water'],Clamperl,3,False
+403,['Water'],Huntail,3,False
+404,['Water'],Gorebyss,3,False
+405,"['Water', 'Rock']",Relicanth,3,False
+406,['Water'],Luvdisc,3,False
+422,['Water'],Kyogre,3,True
+423,['Water'],Primal Kyogre,3,True
+439,['Water'],Piplup,4,False
+440,['Water'],Prinplup,4,False
+441,"['Water', 'Steel']",Empoleon,4,False
+466,['Water'],Buizel,4,False
+467,['Water'],Floatzel,4,False
+470,['Water'],Shellos,4,False
+471,"['Water', 'Ground']",Gastrodon,4,False
+507,['Water'],Finneon,4,False
+508,['Water'],Lumineon,4,False
+509,"['Water', 'Flying']",Mantyke,4,False
+542,"['Water', 'Dragon']",Palkia,4,True
+548,['Water'],Phione,4,False
+549,['Water'],Manaphy,4,False
+561,['Water'],Oshawott,5,False
+562,['Water'],Dewott,5,False
+563,['Water'],Samurott,5,False
+575,['Water'],Panpour,5,False
+576,['Water'],Simipour,5,False
+596,['Water'],Tympole,5,False
+597,"['Water', 'Ground']",Palpitoad,5,False
+598,"['Water', 'Ground']",Seismitoad,5,False
+611,['Water'],Basculin,5,False
+626,"['Water', 'Rock']",Tirtouga,5,False
+627,"['Water', 'Rock']",Carracosta,5,False
+642,"['Water', 'Flying']",Ducklett,5,False
+643,"['Water', 'Flying']",Swanna,5,False
+654,"['Water', 'Ghost']",Frillish,5,False
+655,"['Water', 'Ghost']",Jellicent,5,False
+656,['Water'],Alomomola,5,False
+714,"['Water', 'Fighting']",Keldeo Ordinary Forme,5,False
+715,"['Water', 'Fighting']",Keldeo Resolute Forme,5,False
+725,['Water'],Froakie,6,False
+726,['Water'],Frogadier,6,False
+727,"['Water', 'Dark']",Greninja,6,False
+763,['Water'],Clauncher,6,False
+764,['Water'],Clawitzer,6,False
+1,"['Grass', 'Poison']",Bulbasaur,1,False
+2,"['Grass', 'Poison']",Ivysaur,1,False
+3,"['Grass', 'Poison']",Venusaur,1,False
+4,"['Grass', 'Poison']",Mega Venusaur,1,False
+49,"['Grass', 'Poison']",Oddish,1,False
+50,"['Grass', 'Poison']",Gloom,1,False
+51,"['Grass', 'Poison']",Vileplume,1,False
+76,"['Grass', 'Poison']",Bellsprout,1,False
+77,"['Grass', 'Poison']",Weepinbell,1,False
+78,"['Grass', 'Poison']",Victreebel,1,False
+111,"['Grass', 'Psychic']",Exeggcute,1,False
+112,"['Grass', 'Psychic']",Exeggutor,1,False
+123,['Grass'],Tangela,1,False
+167,['Grass'],Chikorita,2,False
+168,['Grass'],Bayleef,2,False
+169,['Grass'],Meganium,2,False
+198,['Grass'],Bellossom,2,False
+203,"['Grass', 'Flying']",Hoppip,2,False
+204,"['Grass', 'Flying']",Skiploom,2,False
+205,"['Grass', 'Flying']",Jumpluff,2,False
+207,['Grass'],Sunkern,2,False
+208,['Grass'],Sunflora,2,False
+273,['Grass'],Treecko,3,False
+274,['Grass'],Grovyle,3,False
+275,['Grass'],Sceptile,3,False
+276,"['Grass', 'Dragon']",Mega Sceptile,3,False
+297,['Grass'],Seedot,3,False
+298,"['Grass', 'Dark']",Nuzleaf,3,False
+299,"['Grass', 'Dark']",Shiftry,3,False
+310,['Grass'],Shroomish,3,False
+311,"['Grass', 'Fighting']",Breloom,3,False
+345,"['Grass', 'Poison']",Roselia,3,False
+363,['Grass'],Cacnea,3,False
+364,"['Grass', 'Dark']",Cacturne,3,False
+391,"['Grass', 'Flying']",Tropius,3,False
+433,['Grass'],Turtwig,4,False
+434,['Grass'],Grotle,4,False
+435,"['Grass', 'Ground']",Torterra,4,False
+452,"['Grass', 'Poison']",Budew,4,False
+453,"['Grass', 'Poison']",Roserade,4,False
+468,['Grass'],Cherubi,4,False
+469,['Grass'],Cherrim,4,False
+506,['Grass'],Carnivine,4,False
+510,"['Grass', 'Ice']",Snover,4,False
+511,"['Grass', 'Ice']",Abomasnow,4,False
+512,"['Grass', 'Ice']",Mega Abomasnow,4,False
+517,['Grass'],Tangrowth,4,False
+522,['Grass'],Leafeon,4,False
+551,['Grass'],Shaymin Land Forme,4,True
+552,"['Grass', 'Flying']",Shaymin Sky Forme,4,True
+555,['Grass'],Snivy,5,False
+556,['Grass'],Servine,5,False
+557,['Grass'],Serperior,5,False
+571,['Grass'],Pansage,5,False
+572,['Grass'],Simisage,5,False
+607,"['Grass', 'Fairy']",Cottonee,5,False
+608,"['Grass', 'Fairy']",Whimsicott,5,False
+609,['Grass'],Petilil,5,False
+610,['Grass'],Lilligant,5,False
+618,['Grass'],Maractus,5,False
+652,"['Grass', 'Poison']",Foongus,5,False
+653,"['Grass', 'Poison']",Amoonguss,5,False
+659,"['Grass', 'Steel']",Ferroseed,5,False
+660,"['Grass', 'Steel']",Ferrothorn,5,False
+702,"['Grass', 'Fighting']",Virizion,5,True
+719,['Grass'],Chespin,6,False
+720,['Grass'],Quilladin,6,False
+721,"['Grass', 'Fighting']",Chesnaught,6,False
+741,['Grass'],Skiddo,6,False
+742,['Grass'],Gogoat,6,False
+14,['Bug'],Caterpie,1,False
+15,['Bug'],Metapod,1,False
+16,"['Bug', 'Flying']",Butterfree,1,False
+17,"['Bug', 'Poison']",Weedle,1,False
+18,"['Bug', 'Poison']",Kakuna,1,False
+19,"['Bug', 'Poison']",Beedrill,1,False
+20,"['Bug', 'Poison']",Mega Beedrill,1,False
+52,"['Bug', 'Grass']",Paras,1,False
+53,"['Bug', 'Grass']",Parasect,1,False
+54,"['Bug', 'Poison']",Venonat,1,False
+55,"['Bug', 'Poison']",Venomoth,1,False
+133,"['Bug', 'Flying']",Scyther,1,False
+137,['Bug'],Pinsir,1,False
+138,"['Bug', 'Flying']",Mega Pinsir,1,False
+180,"['Bug', 'Flying']",Ledyba,2,False
+181,"['Bug', 'Flying']",Ledian,2,False
+182,"['Bug', 'Poison']",Spinarak,2,False
+183,"['Bug', 'Poison']",Ariados,2,False
+209,"['Bug', 'Flying']",Yanma,2,False
+220,['Bug'],Pineco,2,False
+221,"['Bug', 'Steel']",Forretress,2,False
+229,"['Bug', 'Steel']",Scizor,2,False
+230,"['Bug', 'Steel']",Mega Scizor,2,False
+231,"['Bug', 'Rock']",Shuckle,2,False
+232,"['Bug', 'Fighting']",Heracross,2,False
+233,"['Bug', 'Fighting']",Mega Heracross,2,False
+289,['Bug'],Wurmple,3,False
+290,['Bug'],Silcoon,3,False
+291,"['Bug', 'Flying']",Beautifly,3,False
+292,['Bug'],Cascoon,3,False
+293,"['Bug', 'Poison']",Dustox,3,False
+308,"['Bug', 'Water']",Surskit,3,False
+309,"['Bug', 'Flying']",Masquerain,3,False
+315,"['Bug', 'Ground']",Nincada,3,False
+316,"['Bug', 'Flying']",Ninjask,3,False
+317,"['Bug', 'Ghost']",Shedinja,3,False
+343,['Bug'],Volbeat,3,False
+344,['Bug'],Illumise,3,False
+447,['Bug'],Kricketot,4,False
+448,['Bug'],Kricketune,4,False
+458,['Bug'],Burmy,4,False
+459,"['Bug', 'Grass']",Wormadam Plant Cloak,4,False
+460,"['Bug', 'Ground']",Wormadam Sandy Cloak,4,False
+461,"['Bug', 'Steel']",Wormadam Trash Cloak,4,False
+462,"['Bug', 'Flying']",Mothim,4,False
+463,"['Bug', 'Flying']",Combee,4,False
+464,"['Bug', 'Flying']",Vespiquen,4,False
+521,"['Bug', 'Flying']",Yanmega,4,False
+601,"['Bug', 'Grass']",Sewaddle,5,False
+602,"['Bug', 'Grass']",Swadloon,5,False
+603,"['Bug', 'Grass']",Leavanny,5,False
+604,"['Bug', 'Poison']",Venipede,5,False
+605,"['Bug', 'Poison']",Whirlipede,5,False
+606,"['Bug', 'Poison']",Scolipede,5,False
+619,"['Bug', 'Rock']",Dwebble,5,False
+620,"['Bug', 'Rock']",Crustle,5,False
+650,['Bug'],Karrablast,5,False
+651,"['Bug', 'Steel']",Escavalier,5,False
+657,"['Bug', 'Electric']",Joltik,5,False
+658,"['Bug', 'Electric']",Galvantula,5,False
+678,['Bug'],Shelmet,5,False
+679,['Bug'],Accelgor,5,False
+694,"['Bug', 'Steel']",Durant,5,False
+698,"['Bug', 'Fire']",Larvesta,5,False
+699,"['Bug', 'Fire']",Volcarona,5,False
+718,"['Bug', 'Steel']",Genesect,5,False
+733,['Bug'],Scatterbug,6,False
+734,['Bug'],Spewpa,6,False
+735,"['Bug', 'Flying']",Vivillon,6,False
+31,['Electric'],Pikachu,1,False
+32,['Electric'],Raichu,1,False
+89,"['Electric', 'Steel']",Magnemite,1,False
+90,"['Electric', 'Steel']",Magneton,1,False
+109,['Electric'],Voltorb,1,False
+110,['Electric'],Electrode,1,False
+135,['Electric'],Electabuzz,1,False
+147,['Electric'],Jolteon,1,False
+158,"['Electric', 'Flying']",Zapdos,1,True
+187,['Electric'],Pichu,2,False
+194,['Electric'],Mareep,2,False
+195,['Electric'],Flaaffy,2,False
+196,['Electric'],Ampharos,2,False
+197,"['Electric', 'Dragon']",Mega Ampharos,2,False
+259,['Electric'],Elekid,2,False
+263,['Electric'],Raikou,2,True
+338,['Electric'],Electrike,3,False
+339,['Electric'],Manectric,3,False
+340,['Electric'],Mega Manectric,3,False
+341,['Electric'],Plusle,3,False
+342,['Electric'],Minun,3,False
+449,['Electric'],Shinx,4,False
+450,['Electric'],Luxio,4,False
+451,['Electric'],Luxray,4,False
+465,['Electric'],Pachirisu,4,False
+514,"['Electric', 'Steel']",Magnezone,4,False
+518,['Electric'],Electivire,4,False
+532,"['Electric', 'Ghost']",Rotom,4,False
+533,"['Electric', 'Fire']",Heat Rotom,4,False
+534,"['Electric', 'Water']",Wash Rotom,4,False
+535,"['Electric', 'Ice']",Frost Rotom,4,False
+536,"['Electric', 'Flying']",Fan Rotom,4,False
+537,"['Electric', 'Grass']",Mow Rotom,4,False
+582,['Electric'],Blitzle,5,False
+583,['Electric'],Zebstrika,5,False
+649,"['Electric', 'Flying']",Emolga,5,False
+664,['Electric'],Tynamo,5,False
+665,['Electric'],Eelektrik,5,False
+666,['Electric'],Eelektross,5,False
+705,"['Electric', 'Flying']",Thundurus Incarnate Forme,5,True
+706,"['Electric', 'Flying']",Thundurus Therian Forme,5,True
+765,"['Electric', 'Normal']",Helioptile,6,False
+766,"['Electric', 'Normal']",Heliolisk,6,False
+773,"['Electric', 'Fairy']",Dedenne,6,False
+21,"['Normal', 'Flying']",Pidgey,1,False
+22,"['Normal', 'Flying']",Pidgeotto,1,False
+23,"['Normal', 'Flying']",Pidgeot,1,False
+24,"['Normal', 'Flying']",Mega Pidgeot,1,False
+25,['Normal'],Rattata,1,False
+26,['Normal'],Raticate,1,False
+27,"['Normal', 'Flying']",Spearow,1,False
+28,"['Normal', 'Flying']",Fearow,1,False
+45,"['Normal', 'Fairy']",Jigglypuff,1,False
+46,"['Normal', 'Fairy']",Wigglytuff,1,False
+58,['Normal'],Meowth,1,False
+59,['Normal'],Persian,1,False
+91,"['Normal', 'Flying']",Farfetch'd,1,False
+92,"['Normal', 'Flying']",Doduo,1,False
+93,"['Normal', 'Flying']",Dodrio,1,False
+117,['Normal'],Lickitung,1,False
+122,['Normal'],Chansey,1,False
+124,['Normal'],Kangaskhan,1,False
+125,['Normal'],Mega Kangaskhan,1,False
+139,['Normal'],Tauros,1,False
+144,['Normal'],Ditto,1,False
+145,['Normal'],Eevee,1,False
+149,['Normal'],Porygon,1,False
+156,['Normal'],Snorlax,1,False
+176,['Normal'],Sentret,2,False
+177,['Normal'],Furret,2,False
+178,"['Normal', 'Flying']",Hoothoot,2,False
+179,"['Normal', 'Flying']",Noctowl,2,False
+189,"['Normal', 'Fairy']",Igglybuff,2,False
+206,['Normal'],Aipom,2,False
+219,"['Normal', 'Psychic']",Girafarig,2,False
+222,['Normal'],Dunsparce,2,False
+235,['Normal'],Teddiursa,2,False
+236,['Normal'],Ursaring,2,False
+253,['Normal'],Porygon2,2,False
+254,['Normal'],Stantler,2,False
+255,['Normal'],Smeargle,2,False
+261,['Normal'],Miltank,2,False
+262,['Normal'],Blissey,2,False
+287,['Normal'],Zigzagoon,3,False
+288,['Normal'],Linoone,3,False
+300,"['Normal', 'Flying']",Taillow,3,False
+301,"['Normal', 'Flying']",Swellow,3,False
+312,['Normal'],Slakoth,3,False
+313,['Normal'],Vigoroth,3,False
+314,['Normal'],Slaking,3,False
+318,['Normal'],Whismur,3,False
+319,['Normal'],Loudred,3,False
+320,['Normal'],Exploud,3,False
+323,"['Normal', 'Fairy']",Azurill,3,False
+325,['Normal'],Skitty,3,False
+326,['Normal'],Delcatty,3,False
+359,['Normal'],Spinda,3,False
+365,"['Normal', 'Flying']",Swablu,3,False
+368,['Normal'],Zangoose,3,False
+384,['Normal'],Castform,3,False
+385,['Normal'],Kecleon,3,False
+442,"['Normal', 'Flying']",Starly,4,False
+443,"['Normal', 'Flying']",Staravia,4,False
+444,"['Normal', 'Flying']",Staraptor,4,False
+445,['Normal'],Bidoof,4,False
+446,"['Normal', 'Water']",Bibarel,4,False
+472,['Normal'],Ambipom,4,False
+475,['Normal'],Buneary,4,False
+476,['Normal'],Lopunny,4,False
+477,"['Normal', 'Fighting']",Mega Lopunny,4,False
+480,['Normal'],Glameow,4,False
+481,['Normal'],Purugly,4,False
+489,['Normal'],Happiny,4,False
+490,"['Normal', 'Flying']",Chatot,4,False
+496,['Normal'],Munchlax,4,False
+515,['Normal'],Lickilicky,4,False
+526,['Normal'],Porygon-Z,4,False
+544,['Normal'],Regigigas,4,True
+553,['Normal'],Arceus,4,True
+564,['Normal'],Patrat,5,False
+565,['Normal'],Watchog,5,False
+566,['Normal'],Lillipup,5,False
+567,['Normal'],Herdier,5,False
+568,['Normal'],Stoutland,5,False
+579,"['Normal', 'Flying']",Pidove,5,False
+580,"['Normal', 'Flying']",Tranquill,5,False
+581,"['Normal', 'Flying']",Unfezant,5,False
+591,['Normal'],Audino,5,False
+592,"['Normal', 'Fairy']",Mega Audino,5,False
+634,['Normal'],Minccino,5,False
+635,['Normal'],Cinccino,5,False
+647,"['Normal', 'Grass']",Deerling,5,False
+648,"['Normal', 'Grass']",Sawsbuck,5,False
+688,['Normal'],Bouffalant,5,False
+689,"['Normal', 'Flying']",Rufflet,5,False
+690,"['Normal', 'Flying']",Braviary,5,False
+716,"['Normal', 'Psychic']",Meloetta Aria Forme,5,False
+717,"['Normal', 'Fighting']",Meloetta Pirouette Forme,5,False
+728,['Normal'],Bunnelby,6,False
+729,"['Normal', 'Ground']",Diggersby,6,False
+730,"['Normal', 'Flying']",Fletchling,6,False
+745,['Normal'],Furfrou,6,False
+134,"['Ice', 'Psychic']",Jynx,1,False
+157,"['Ice', 'Flying']",Articuno,1,True
+239,"['Ice', 'Ground']",Swinub,2,False
+240,"['Ice', 'Ground']",Piloswine,2,False
+244,"['Ice', 'Flying']",Delibird,2,False
+258,"['Ice', 'Psychic']",Smoochum,2,False
+396,['Ice'],Snorunt,3,False
+397,['Ice'],Glalie,3,False
+398,['Ice'],Mega Glalie,3,False
+399,"['Ice', 'Water']",Spheal,3,False
+400,"['Ice', 'Water']",Sealeo,3,False
+401,"['Ice', 'Water']",Walrein,3,False
+416,['Ice'],Regice,3,True
+523,['Ice'],Glaceon,4,False
+525,"['Ice', 'Ground']",Mamoswine,4,False
+531,"['Ice', 'Ghost']",Froslass,4,False
+644,['Ice'],Vanillite,5,False
+645,['Ice'],Vanillish,5,False
+646,['Ice'],Vanilluxe,5,False
+675,['Ice'],Cubchoo,5,False
+676,['Ice'],Beartic,5,False
+677,['Ice'],Cryogonal,5,False
+789,['Ice'],Bergmite,6,False
+790,['Ice'],Avalugg,6,False
+62,['Fighting'],Mankey,1,False
+63,['Fighting'],nan,1,False
+73,['Fighting'],Machop,1,False
+74,['Fighting'],Machoke,1,False
+75,['Fighting'],Machamp,1,False
+115,['Fighting'],Hitmonlee,1,False
+116,['Fighting'],Hitmonchan,1,False
+256,['Fighting'],Tyrogue,2,False
+257,['Fighting'],Hitmontop,2,False
+321,['Fighting'],Makuhita,3,False
+322,['Fighting'],Hariyama,3,False
+335,"['Fighting', 'Psychic']",Meditite,3,False
+336,"['Fighting', 'Psychic']",Medicham,3,False
+337,"['Fighting', 'Psychic']",Mega Medicham,3,False
+497,['Fighting'],Riolu,4,False
+498,"['Fighting', 'Steel']",Lucario,4,False
+499,"['Fighting', 'Steel']",Mega Lucario,4,False
+593,['Fighting'],Timburr,5,False
+594,['Fighting'],Gurdurr,5,False
+595,['Fighting'],Conkeldurr,5,False
+599,['Fighting'],Throh,5,False
+600,['Fighting'],Sawk,5,False
+681,['Fighting'],Mienfoo,5,False
+682,['Fighting'],Mienshao,5,False
+743,['Fighting'],Pancham,6,False
+744,"['Fighting', 'Dark']",Pangoro,6,False
+772,"['Fighting', 'Flying']",Hawlucha,6,False
+81,"['Rock', 'Ground']",Geodude,1,False
+82,"['Rock', 'Ground']",Graveler,1,False
+83,"['Rock', 'Ground']",Golem,1,False
+104,"['Rock', 'Ground']",Onix,1,False
+150,"['Rock', 'Water']",Omanyte,1,False
+151,"['Rock', 'Water']",Omastar,1,False
+152,"['Rock', 'Water']",Kabuto,1,False
+153,"['Rock', 'Water']",Kabutops,1,False
+154,"['Rock', 'Flying']",Aerodactyl,1,False
+155,"['Rock', 'Flying']",Mega Aerodactyl,1,False
+201,['Rock'],Sudowoodo,2,False
+266,"['Rock', 'Ground']",Larvitar,2,False
+267,"['Rock', 'Ground']",Pupitar,2,False
+268,"['Rock', 'Dark']",Tyranitar,2,False
+269,"['Rock', 'Dark']",Mega Tyranitar,2,False
+324,['Rock'],Nosepass,3,False
+370,"['Rock', 'Psychic']",Lunatone,3,False
+371,"['Rock', 'Psychic']",Solrock,3,False
+378,"['Rock', 'Grass']",Lileep,3,False
+379,"['Rock', 'Grass']",Cradily,3,False
+380,"['Rock', 'Bug']",Anorith,3,False
+381,"['Rock', 'Bug']",Armaldo,3,False
+415,['Rock'],Regirock,3,True
+454,['Rock'],Cranidos,4,False
+455,['Rock'],Rampardos,4,False
+456,"['Rock', 'Steel']",Shieldon,4,False
+457,"['Rock', 'Steel']",Bastiodon,4,False
+487,['Rock'],Bonsly,4,False
+529,"['Rock', 'Steel']",Probopass,4,False
+584,['Rock'],Roggenrola,5,False
+585,['Rock'],Boldore,5,False
+586,['Rock'],Gigalith,5,False
+628,"['Rock', 'Flying']",Archen,5,False
+629,"['Rock', 'Flying']",Archeops,5,False
+701,"['Rock', 'Fighting']",Terrakion,5,True
+759,"['Rock', 'Water']",Binacle,6,False
+760,"['Rock', 'Water']",Barbaracle,6,False
+767,"['Rock', 'Dragon']",Tyrunt,6,False
+768,"['Rock', 'Dragon']",Tyrantrum,6,False
+769,"['Rock', 'Ice']",Amaura,6,False
+770,"['Rock', 'Ice']",Aurorus,6,False
+774,"['Rock', 'Fairy']",Carbink,6,False
+796,"['Rock', 'Fairy']",Diancie,6,True
+797,"['Rock', 'Fairy']",Mega Diancie,6,True
+33,['Ground'],Sandshrew,1,False
+34,['Ground'],Sandslash,1,False
+56,['Ground'],Diglett,1,False
+57,['Ground'],Dugtrio,1,False
+113,['Ground'],Cubone,1,False
+114,['Ground'],Marowak,1,False
+120,"['Ground', 'Rock']",Rhyhorn,1,False
+121,"['Ground', 'Rock']",Rhydon,1,False
+223,"['Ground', 'Flying']",Gligar,2,False
+251,['Ground'],Phanpy,2,False
+252,['Ground'],Donphan,2,False
+360,['Ground'],Trapinch,3,False
+361,"['Ground', 'Dragon']",Vibrava,3,False
+362,"['Ground', 'Dragon']",Flygon,3,False
+376,"['Ground', 'Psychic']",Baltoy,3,False
+377,"['Ground', 'Psychic']",Claydol,3,False
+424,['Ground'],Groudon,3,True
+425,"['Ground', 'Fire']",Primal Groudon,3,True
+500,['Ground'],Hippopotas,4,False
+501,['Ground'],Hippowdon,4,False
+516,"['Ground', 'Rock']",Rhyperior,4,False
+524,"['Ground', 'Flying']",Gliscor,4,False
+589,['Ground'],Drilbur,5,False
+590,"['Ground', 'Steel']",Excadrill,5,False
+612,"['Ground', 'Dark']",Sandile,5,False
+613,"['Ground', 'Dark']",Krokorok,5,False
+614,"['Ground', 'Dark']",Krookodile,5,False
+680,"['Ground', 'Electric']",Stunfisk,5,False
+684,"['Ground', 'Ghost']",Golett,5,False
+685,"['Ground', 'Ghost']",Golurk,5,False
+709,"['Ground', 'Flying']",Landorus Incarnate Forme,5,True
+710,"['Ground', 'Flying']",Landorus Therian Forme,5,True
+703,['Flying'],Tornadus Incarnate Forme,5,True
+704,['Flying'],Tornadus Therian Forme,5,True
+791,"['Flying', 'Dragon']",Noibat,6,False
+792,"['Flying', 'Dragon']",Noivern,6,False
+69,['Psychic'],Abra,1,False
+70,['Psychic'],Kadabra,1,False
+71,['Psychic'],Alakazam,1,False
+72,['Psychic'],Mega Alakazam,1,False
+105,['Psychic'],Drowzee,1,False
+106,['Psychic'],Hypno,1,False
+132,"['Psychic', 'Fairy']",Mr. Mime,1,False
+163,['Psychic'],Mewtwo,1,True
+164,"['Psychic', 'Fighting']",Mega Mewtwo X,1,True
+165,['Psychic'],Mega Mewtwo Y,1,True
+166,['Psychic'],Mew,1,False
+192,"['Psychic', 'Flying']",Natu,2,False
+193,"['Psychic', 'Flying']",Xatu,2,False
+212,['Psychic'],Espeon,2,False
+217,['Psychic'],Unown,2,False
+218,['Psychic'],Wobbuffet,2,False
+270,"['Psychic', 'Flying']",Lugia,2,True
+272,"['Psychic', 'Grass']",Celebi,2,False
+304,"['Psychic', 'Fairy']",Ralts,3,False
+305,"['Psychic', 'Fairy']",Kirlia,3,False
+306,"['Psychic', 'Fairy']",Gardevoir,3,False
+307,"['Psychic', 'Fairy']",Mega Gardevoir,3,False
+357,['Psychic'],Spoink,3,False
+358,['Psychic'],Grumpig,3,False
+392,['Psychic'],Chimecho,3,False
+395,['Psychic'],Wynaut,3,False
+429,['Psychic'],Deoxys Normal Forme,3,True
+430,['Psychic'],DeoxysAttack Forme,3,True
+431,['Psychic'],Deoxys Defense Forme,3,True
+432,['Psychic'],Deoxys Speed Forme,3,True
+482,['Psychic'],Chingling,4,False
+488,"['Psychic', 'Fairy']",Mime Jr.,4,False
+527,"['Psychic', 'Fighting']",Gallade,4,False
+528,"['Psychic', 'Fighting']",Mega Gallade,4,False
+538,['Psychic'],Uxie,4,True
+539,['Psychic'],Mesprit,4,True
+540,['Psychic'],Azelf,4,True
+547,['Psychic'],Cresselia,4,False
+554,"['Psychic', 'Fire']",Victini,5,True
+577,['Psychic'],Munna,5,False
+578,['Psychic'],Musharna,5,False
+587,"['Psychic', 'Flying']",Woobat,5,False
+588,"['Psychic', 'Flying']",Swoobat,5,False
+623,"['Psychic', 'Flying']",Sigilyph,5,False
+636,['Psychic'],Gothita,5,False
+637,['Psychic'],Gothorita,5,False
+638,['Psychic'],Gothitelle,5,False
+639,['Psychic'],Solosis,5,False
+640,['Psychic'],Duosion,5,False
+641,['Psychic'],Reuniclus,5,False
+667,['Psychic'],Elgyem,5,False
+668,['Psychic'],Beheeyem,5,False
+746,['Psychic'],Espurr,6,False
+747,['Psychic'],Meowstic Male,6,False
+748,['Psychic'],Meowstic Female,6,False
+798,"['Psychic', 'Ghost']",Hoopa Confined,6,True
+799,"['Psychic', 'Dark']",Hoopa Unbound,6,True
+29,['Poison'],Ekans,1,False
+30,['Poison'],Arbok,1,False
+35,['Poison'],Nidoran♀,1,False
+36,['Poison'],Nidorina,1,False
+37,"['Poison', 'Ground']",Nidoqueen,1,False
+38,['Poison'],Nidoran♂,1,False
+39,['Poison'],Nidorino,1,False
+40,"['Poison', 'Ground']",Nidoking,1,False
+47,"['Poison', 'Flying']",Zubat,1,False
+48,"['Poison', 'Flying']",Golbat,1,False
+96,['Poison'],Grimer,1,False
+97,['Poison'],Muk,1,False
+118,['Poison'],Koffing,1,False
+119,['Poison'],Weezing,1,False
+184,"['Poison', 'Flying']",Crobat,2,False
+346,['Poison'],Gulpin,3,False
+347,['Poison'],Swalot,3,False
+369,['Poison'],Seviper,3,False
+483,"['Poison', 'Dark']",Stunky,4,False
+484,"['Poison', 'Dark']",Skuntank,4,False
+502,"['Poison', 'Bug']",Skorupi,4,False
+503,"['Poison', 'Dark']",Drapion,4,False
+504,"['Poison', 'Fighting']",Croagunk,4,False
+505,"['Poison', 'Fighting']",Toxicroak,4,False
+630,['Poison'],Trubbish,5,False
+631,['Poison'],Garbodor,5,False
+761,"['Poison', 'Water']",Skrelp,6,False
+762,"['Poison', 'Dragon']",Dragalge,6,False
+100,"['Ghost', 'Poison']",Gastly,1,False
+101,"['Ghost', 'Poison']",Haunter,1,False
+102,"['Ghost', 'Poison']",Gengar,1,False
+103,"['Ghost', 'Poison']",Mega Gengar,1,False
+216,['Ghost'],Misdreavus,2,False
+386,['Ghost'],Shuppet,3,False
+387,['Ghost'],Banette,3,False
+388,['Ghost'],Mega Banette,3,False
+389,['Ghost'],Duskull,3,False
+390,['Ghost'],Dusclops,3,False
+473,"['Ghost', 'Flying']",Drifloon,4,False
+474,"['Ghost', 'Flying']",Drifblim,4,False
+478,['Ghost'],Mismagius,4,False
+491,"['Ghost', 'Dark']",Spiritomb,4,False
+530,['Ghost'],Dusknoir,4,False
+545,"['Ghost', 'Dragon']",Giratina Altered Forme,4,True
+546,"['Ghost', 'Dragon']",Giratina Origin Forme,4,True
+624,['Ghost'],Yamask,5,False
+625,['Ghost'],Cofagrigus,5,False
+669,"['Ghost', 'Fire']",Litwick,5,False
+670,"['Ghost', 'Fire']",Lampent,5,False
+671,"['Ghost', 'Fire']",Chandelure,5,False
+779,"['Ghost', 'Grass']",Phantump,6,False
+780,"['Ghost', 'Grass']",Trevenant,6,False
+781,"['Ghost', 'Grass']",Pumpkaboo Average Size,6,False
+782,"['Ghost', 'Grass']",Pumpkaboo Small Size,6,False
+783,"['Ghost', 'Grass']",Pumpkaboo Large Size,6,False
+784,"['Ghost', 'Grass']",Pumpkaboo Super Size,6,False
+785,"['Ghost', 'Grass']",Gourgeist Average Size,6,False
+786,"['Ghost', 'Grass']",Gourgeist Small Size,6,False
+787,"['Ghost', 'Grass']",Gourgeist Large Size,6,False
+788,"['Ghost', 'Grass']",Gourgeist Super Size,6,False
+41,['Fairy'],Clefairy,1,False
+42,['Fairy'],Clefable,1,False
+188,['Fairy'],Cleffa,2,False
+190,['Fairy'],Togepi,2,False
+191,"['Fairy', 'Flying']",Togetic,2,False
+226,['Fairy'],Snubbull,2,False
+227,['Fairy'],Granbull,2,False
+520,"['Fairy', 'Flying']",Togekiss,4,False
+738,['Fairy'],Flabébé,6,False
+739,['Fairy'],Floette,6,False
+740,['Fairy'],Florges,6,False
+753,['Fairy'],Spritzee,6,False
+754,['Fairy'],Aromatisse,6,False
+755,['Fairy'],Swirlix,6,False
+756,['Fairy'],Slurpuff,6,False
+771,['Fairy'],Sylveon,6,False
+793,['Fairy'],Xerneas,6,True
+160,['Dragon'],Dratini,1,False
+161,['Dragon'],Dragonair,1,False
+162,"['Dragon', 'Flying']",Dragonite,1,False
+366,"['Dragon', 'Flying']",Altaria,3,False
+367,"['Dragon', 'Fairy']",Mega Altaria,3,False
+407,['Dragon'],Bagon,3,False
+408,['Dragon'],Shelgon,3,False
+409,"['Dragon', 'Flying']",Salamence,3,False
+410,"['Dragon', 'Flying']",Mega Salamence,3,False
+418,"['Dragon', 'Psychic']",Latias,3,True
+419,"['Dragon', 'Psychic']",Mega Latias,3,True
+420,"['Dragon', 'Psychic']",Latios,3,True
+421,"['Dragon', 'Psychic']",Mega Latios,3,True
+426,"['Dragon', 'Flying']",Rayquaza,3,True
+427,"['Dragon', 'Flying']",Mega Rayquaza,3,True
+492,"['Dragon', 'Ground']",Gible,4,False
+493,"['Dragon', 'Ground']",Gabite,4,False
+494,"['Dragon', 'Ground']",Garchomp,4,False
+495,"['Dragon', 'Ground']",Mega Garchomp,4,False
+672,['Dragon'],Axew,5,False
+673,['Dragon'],Fraxure,5,False
+674,['Dragon'],Haxorus,5,False
+683,['Dragon'],Druddigon,5,False
+707,"['Dragon', 'Fire']",Reshiram,5,True
+708,"['Dragon', 'Electric']",Zekrom,5,True
+711,"['Dragon', 'Ice']",Kyurem,5,True
+712,"['Dragon', 'Ice']",Kyurem Black Kyurem,5,True
+713,"['Dragon', 'Ice']",Kyurem White Kyurem,5,True
+775,['Dragon'],Goomy,6,False
+776,['Dragon'],Sliggoo,6,False
+777,['Dragon'],Goodra,6,False
+795,"['Dragon', 'Ground']",Zygarde Half Forme,6,True
+213,['Dark'],Umbreon,2,False
+214,"['Dark', 'Flying']",Murkrow,2,False
+234,"['Dark', 'Ice']",Sneasel,2,False
+247,"['Dark', 'Fire']",Houndour,2,False
+248,"['Dark', 'Fire']",Houndoom,2,False
+249,"['Dark', 'Fire']",Mega Houndoom,2,False
+285,['Dark'],Poochyena,3,False
+286,['Dark'],Mightyena,3,False
+327,"['Dark', 'Ghost']",Sableye,3,False
+328,"['Dark', 'Ghost']",Mega Sableye,3,False
+393,['Dark'],Absol,3,False
+394,['Dark'],Mega Absol,3,False
+479,"['Dark', 'Flying']",Honchkrow,4,False
+513,"['Dark', 'Ice']",Weavile,4,False
+550,['Dark'],Darkrai,4,True
+569,['Dark'],Purrloin,5,False
+570,['Dark'],Liepard,5,False
+621,"['Dark', 'Fighting']",Scraggy,5,False
+622,"['Dark', 'Fighting']",Scrafty,5,False
+632,['Dark'],Zorua,5,False
+633,['Dark'],Zoroark,5,False
+686,"['Dark', 'Steel']",Pawniard,5,False
+687,"['Dark', 'Steel']",Bisharp,5,False
+691,"['Dark', 'Flying']",Vullaby,5,False
+692,"['Dark', 'Flying']",Mandibuzz,5,False
+695,"['Dark', 'Dragon']",Deino,5,False
+696,"['Dark', 'Dragon']",Zweilous,5,False
+697,"['Dark', 'Dragon']",Hydreigon,5,False
+757,"['Dark', 'Psychic']",Inkay,6,False
+758,"['Dark', 'Psychic']",Malamar,6,False
+794,"['Dark', 'Flying']",Yveltal,6,True
+224,"['Steel', 'Ground']",Steelix,2,False
+225,"['Steel', 'Ground']",Mega Steelix,2,False
+246,"['Steel', 'Flying']",Skarmory,2,False
+329,"['Steel', 'Fairy']",Mawile,3,False
+330,"['Steel', 'Fairy']",Mega Mawile,3,False
+331,"['Steel', 'Rock']",Aron,3,False
+332,"['Steel', 'Rock']",Lairon,3,False
+333,"['Steel', 'Rock']",Aggron,3,False
+334,['Steel'],Mega Aggron,3,False
+411,"['Steel', 'Psychic']",Beldum,3,False
+412,"['Steel', 'Psychic']",Metang,3,False
+413,"['Steel', 'Psychic']",Metagross,3,False
+414,"['Steel', 'Psychic']",Mega Metagross,3,False
+417,['Steel'],Registeel,3,True
+428,"['Steel', 'Psychic']",Jirachi,3,True
+485,"['Steel', 'Psychic']",Bronzor,4,False
+486,"['Steel', 'Psychic']",Bronzong,4,False
+541,"['Steel', 'Dragon']",Dialga,4,True
+661,['Steel'],Klink,5,False
+662,['Steel'],Klang,5,False
+663,['Steel'],Klinklang,5,False
+700,"['Steel', 'Fighting']",Cobalion,5,True
+749,"['Steel', 'Ghost']",Honedge,6,False
+750,"['Steel', 'Ghost']",Doublade,6,False
+751,"['Steel', 'Ghost']",Aegislash Blade Forme,6,False
+752,"['Steel', 'Ghost']",Aegislash Shield Forme,6,False
+778,"['Steel', 'Fairy']",Klefki,6,False
